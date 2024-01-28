@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/BP_Plate.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/BP_Block.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/Untitled.umap",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/BP_Ball.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Level/Untitled.umap",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/ActorComponents/BP_HealthComponent.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/BP_Bonuse.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/BP_BlockSpawner.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/effects/BP_EffectComponent.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/Bonuses/BP_Bonuse.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/Bonuses/BP_BonuseWithEffect.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/effects/BP_Effect_Blast.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/BP_BonuseBall.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/effects/BP_Effect_BonuseBall.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/Materials/Yellow.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/Materials/Yellow1.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/Materials/Red.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/Materials/Green.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/space_invader_texture_0.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/palette.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Acr_v3/Content/Actors/space_invader.uasset"
+			]
+		}
+	]
+}
